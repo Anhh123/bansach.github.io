@@ -1,0 +1,25 @@
+/********************  Roboto Slab font *********************/
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 100;
+  src: local('Roboto Slab Thin'), local('RobotoSlab-Thin'), url(roboto_slab_swoff/MEz38VLIFL-t46JUtkIEgAWLJY2MHEblfmYe_fJ3pvg.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 300;
+  src: local('Roboto Slab Light'), local('RobotoSlab-Light'), url(roboto_slab_swoff/dazS1PrQQuCxC3iOAJFEJcJIfR0j-Hc3mXsqdoe9vx8.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto Slab Regular'), local('RobotoSlab-Regular'), url(roboto_slab_swoff/y7lebkjgREBJK96VQi37ZkbnXQ06sCSpaytluCdpFnY.woff) format('woff');
+}
+@font-face {
+  font-family: 'Roboto Slab';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Slab Bold'), local('RobotoSlab-Bold'), url(roboto_slab_swoff/dazS1PrQQuCxC3iOAJFEJdtxB2icnUq6NyCcJOfFtRI.woff) format('woff');
+}

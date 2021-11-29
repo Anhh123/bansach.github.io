@@ -1,0 +1,75 @@
+ul li {
+  list-style-type: none;
+}
+.div-left {
+  float: left;
+  width: 50%;
+}
+.div-right {
+  float: right;
+  width: 50%;
+}
+.preview li {
+  float: left;
+  padding-left: 2%;
+  padding-right: 2%;
+}
+.preview {
+  float: right;
+  width: 55%;
+}
+.btn_add_question {
+  float: left;
+  padding-left: 12%;
+  padding-top: 2%;
+}
+
+.form-audit-section {
+  background: none repeat scroll 0 0 #ffffff;
+}
+.section {
+  background: none repeat scroll 0 0 #f6f6f6;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  clear: both;
+  display: block;
+  margin-bottom: 2%;
+  overflow: hidden;
+  padding: 2%;
+}
+.section .form_section_content {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 0 auto;
+  padding: 1%;
+  width: 80%;
+}
+.section .form_section_content > table {
+  width: 100%;
+}
+.section .form_section_content td {
+  padding: 2%;
+}
+.section .form_section_content input[type="text"], .form_section select , .form_detail_content input[type=text]{
+  width: 50%;
+}
+.btn-default.btn-flat, .btn.btn-flat {
+  background: none repeat scroll 0 0 #ececec;
+}
+.form_detail_content > table {
+  margin: 0 auto;
+  width: 80%;
+}
+.form_detail_content td, .form_audit td {
+  padding: 1%;
+}
+.form_audit {
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  margin: 0 auto;
+  padding: 2%;
+  width: 80%;
+}
+.form_audit table {
+  width: 100%;
+}
